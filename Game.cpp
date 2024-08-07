@@ -1,4 +1,4 @@
-// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~      Project by Abdullah Maqbool(L1F23BSSE0391) TO MAM: ROHA IRFAN!   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~      Project by Abdullah Maqbool      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #include <iostream>
 #include <fstream>
 using namespace std;
