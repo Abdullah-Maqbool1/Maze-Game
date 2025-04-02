@@ -1,5 +1,3 @@
----
-
 # 🧀 **Maze-Game**
 
 A thrilling maze adventure where you guide a rat through intricate mazes, solve puzzles, avoid obstacles, and collect cheese 🧀 to reach the exit. This C++ console game features save/load functionality, achievement tracking, and a user feedback system for an enhanced gaming experience.
