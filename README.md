@@ -1,5 +1,3 @@
-Got it! Here’s the updated version of your **Maze-Game** README, styled in the same format as your example:
-
 ---
 
 # 🧀 **Maze-Game**
