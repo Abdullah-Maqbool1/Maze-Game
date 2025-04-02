@@ -1,44 +1,65 @@
-🧀 Maze-Game 🧀
-Welcome to Maze-Game! 🐭 A thrilling classic maze adventure where you guide a rat through intricate mazes to find the exit. Solve puzzles, avoid obstacles, collect cheese 🧀, and make your way through multiple levels. Only your wits and strategy can help you outsmart the maze!
+Got it! Here’s the updated version of your **Maze-Game** README, styled in the same format as your example:
 
-✨ Features ✨
-Arrow Keys / WASD Control: Move the rat through the maze using arrow keys or WASD for seamless navigation. 🚶‍♂️
+---
 
-Dynamic Obstacles: Avoid dangerous traps and barriers that threaten your progress. ⚠️
+# 🧀 **Maze-Game**
 
-Cheese Collection: Scour the maze to collect cheese 🧀 and earn points! 🏆
+A thrilling maze adventure where you guide a rat through intricate mazes, solve puzzles, avoid obstacles, and collect cheese 🧀 to reach the exit. This C++ console game features save/load functionality, achievement tracking, and a user feedback system for an enhanced gaming experience.
 
-Lives System: You have a limited number of lives. Be careful with your moves! ❤️💔
+## 🚀 **Features**
 
-Multiple Levels: More challenging mazes await as you progress! 🏰
+- 🐀 **Arrow Keys / WASD Control**: Navigate through the maze with ease.
+- ⚠️ **Dynamic Obstacles**: Avoid dangerous traps and barriers.
+- 🧀 **Cheese Collection**: Collect cheese to earn points.
+- ❤️ **Lives System**: You have a limited number of lives — use them wisely.
+- 🏰 **Multiple Levels**: Progress through increasingly challenging mazes.
+- 💾 **Save/Load Progress**: Save your game and pick up right where you left off.
+- 🏅 **Achievements**: Unlock achievements as you complete levels and challenges.
+- 💬 **Feedback System**: Share your feedback to help improve the game.
 
-Save/Load Progress: Save your progress and pick up where you left off anytime. 💾
+## 🛠️ **Technologies Used**
 
-Achievements: Unlock achievements based on your skills and performance! 🏅
+- **C++** 💻
 
-Feedback System: Your experience matters. Let us know how we can improve! 💬
+## 📦 **Installation**
 
-🚀 How to Play 🚀
-Control: Use arrow keys or WASD to move the rat. 🐀
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/Abdullah-Maqbool1/Maze-Game.git
+   ```
 
-Objective: Find the exit while avoiding obstacles and collecting cheese.
+2. **Navigate to the project directory**:
+   ```sh
+   cd maze-game
+   ```
 
-Lives: You have a limited number of lives — make your moves wisely.
+3. **Compile the C++ source code**:
+   - For **Linux/MacOS**:
+     ```sh
+     g++ -o Maze-Game main.cpp
+     ```
+   - For **Windows**:
+     Open the project in an IDE like Code::Blocks or Visual Studio and compile.
 
-Progress: Unlock achievements and save your game to continue later.
+4. **Run the game**:
+   ```sh
+   ./Maze-Game  # For Linux/MacOS
+   Maze-Game.exe  # For Windows
+   ```
 
-🏆 Achievements 🏆
-Earn badges based on your gameplay performance. Each level conquered, each challenge overcome brings you closer to glory! ✨
+## 📝 **How to Play**
 
-💾 Save & Load Game 💾
-Save your progress after each level and load your saved game later to continue your journey. 📂
+- Use **arrow keys** or **WASD** to move the rat.
+- **Objective**: Avoid obstacles, collect cheese, and find the exit.
+- **Lives**: Keep an eye on your remaining lives — careful moves are key.
+- **Progress**: Unlock achievements and save your game to continue later.
 
-📝 Feedback 📝
-Your thoughts and suggestions are important to us! After playing, please share your feedback to help us improve your gaming experience.
+## 🏆 **Achievements**
 
-🛠️ Clone & Setup 🛠️
-If you'd like to contribute, play locally, or modify the game, you can clone the repository and run it on your system:
+Unlock unique achievements based on your performance in the game!
 
-Clone the repository:
-```sh
-git clone https://github.com/Abdullah-Maqbool1/Maze-Game.git
+---
+
+Enjoy the adventure and have fun solving the maze! 🎮🐭
+
+--- 
